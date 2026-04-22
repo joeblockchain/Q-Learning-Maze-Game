@@ -1,10 +1,10 @@
-# Q-Learning Maze Game (CDS524 Assignment 1)
+# Q-Learning Maze Game 
 
 ## Overview
 
 This project implements a grid-based maze navigation game using the Q-learning algorithm. An autonomous agent learns to navigate from a fixed start position to a goal position while avoiding walls and traps. The environment is visualized with a Pygame-based graphical user interface (GUI), and the training process is also reproduced in Google Colab for analysis and plotting.
 
-This repository is created for CDS524 Assignment 1 – Reinforcement Learning Game Design.
+This repository is created for Reinforcement Learning Game Design.
 
 ## Game Design
 
